@@ -1,3 +1,4 @@
+JEEVA ADITHIYAN SK 212225060102
 # sorting-of-numbers
 ## Aim
 To write and execute an Assembly Language Program for sorting data in Ascending and  descending order using 8051 microcontroller on Keil software.
@@ -24,6 +25,7 @@ To write and execute an Assembly Language Program for sorting data in Ascending 
 
 ```asm
 
+<img width="1050" height="820" alt="image" src="https://github.com/user-attachments/assets/fe0a7632-8a00-482e-9bc8-d756b7194297" />
 
 
 
@@ -31,6 +33,7 @@ To write and execute an Assembly Language Program for sorting data in Ascending 
 ## OUTPUT(Ascending order)
 
 
+<img width="1078" height="1490" alt="image" src="https://github.com/user-attachments/assets/694ee3cd-c5d0-4452-b4fd-15895ded95a0" />
 
 ---
 
@@ -50,12 +53,14 @@ To write and execute an Assembly Language Program for sorting data in Ascending 
 
 ```asm
 
+<img width="1079" height="938" alt="image" src="https://github.com/user-attachments/assets/b2864f8b-590c-4c1f-ad81-80c56a5181a9" />
 
 
 
 ```
 ## OUTPUT(Descending order)
 
+<img width="1078" height="1490" alt="image" src="https://github.com/user-attachments/assets/e00c69a8-802c-41d6-aa40-f8d75fa1209e" />
 
 
 ---
